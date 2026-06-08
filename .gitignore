@@ -1,0 +1,6 @@
+#extenciones a evitar
+*.exe
+*.jpg
+*.doc
+*.txt
+*.class
